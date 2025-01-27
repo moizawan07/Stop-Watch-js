@@ -53,7 +53,7 @@ function  timercircle(){
 
      display.innerHTML = `${hour}:${minu}:${sec}`
 
-     setTimeout("timercircle()",1000)
+     setTimeout("timercircle()",100)
 
     }
      
